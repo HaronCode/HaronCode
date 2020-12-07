@@ -4,7 +4,7 @@
 - 💪 I like to write code
 - 📚 I like to create some tools and libraries
 - ⚙️ I'm also interesting in CI/CD
-- 🥅 I am constantly learning new things
+- 🥅 I'm constantly learning new things
 
 ### Languages and Tools:
 
