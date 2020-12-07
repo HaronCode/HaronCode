@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Nikita
-## I'm a Android Developer
+## I'm Android Developer
 
 - 💪 I like to write code
 - 📚 I like to create some tools and libraries
