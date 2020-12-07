@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I'm Nikita
+## I'm a Android Developer
+---
 
-<!--
-**HaronCode/HaronCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💪 I like to write code
+- 📚 I like to create some tools and libraries
+- ⚙️ I'm also interesting in CI/CD
+- 🥅 I am constantly learning new things
 
-Here are some ideas to get you started:
+### Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="Kotlin" width="26px" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" />
+<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />
+
+<img align="left" alt="RxJava" width="26px" src="https://miro.medium.com/max/400/1*JQ_FA4arzgHWD9rp9JSjvg.png" />
+<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
